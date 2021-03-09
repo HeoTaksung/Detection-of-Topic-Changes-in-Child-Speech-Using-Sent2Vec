@@ -1,7 +1,7 @@
 # Detection-of-Topic-Changes-in-Child-Speech-Using-Sent2Vec
 
 
-  * `허탁성`, `이윤경`, `김유섭`. (2019). Sent2Vec을 이용한 아동 발화의 화제 변경 탐지. 제 31회 한글 및 한국어 정보처리 학술대회.
+  * `허탁성`, `이윤경`, `김유섭`. (2019). [Sent2Vec을 이용한 아동 발화의 화제 변경 탐지](https://github.com/HeoTaksung/Detection-of-Topic-Changes-in-Child-Speech-Using-Sent2Vec/blob/master/Sent2Vec%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%84%EB%8F%99%20%EB%B0%9C%ED%99%94%EC%9D%98%20%ED%99%94%EC%A0%9C%20%EB%B3%80%EA%B2%BD%20%ED%83%90%EC%A7%80.pdf). 제 31회 한글 및 한국어 정보처리 학술대회.
   
   --------------------------------------
     
